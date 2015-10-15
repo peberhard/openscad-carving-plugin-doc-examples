@@ -314,7 +314,7 @@ Changes the direction of a sub-section of a path. It module is used in specific 
 
 **example:**
 
-See `examples/Carving/carving_clip_tenon_joint.scad` example.
+See `examples/clip_tenon_joint/` example.
 
 
 ## Assembly
@@ -327,7 +327,7 @@ Root module containg assembly instructions.
 
 **example:**
 
-See `examples/Carving/carving_clip_tenon_joint.scad` example.
+See `examples/clip_tenon_joint/` example.
 
 
 ### carving_part(id)
@@ -348,5 +348,5 @@ Render the part identified as "front" at the current position (definied by previ
 
     carving_part("front");
 
-As well, see `examples/Carving/carving_clip_tenon_joint.scad` example.
+As well, see `examples/clip_tenon_joint/` example.
 
