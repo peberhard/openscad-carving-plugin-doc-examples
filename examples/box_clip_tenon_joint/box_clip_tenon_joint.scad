@@ -1,6 +1,6 @@
 
 $fn = 3;   // speed up rendering
-t1r = 1.5; // radius of the tool which has tool number 1 in LinuxCNC tool table
+t1r = 1.5; // radius of the tool T1
 mt = 4.8;  // material thickness
 step_down = mt; // note: if step_down=(mt-0.6)/2 then 3 passes: 2.1, 2.1 then 0.6
 
