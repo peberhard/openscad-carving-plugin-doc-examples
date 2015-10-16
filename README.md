@@ -347,5 +347,5 @@ Render the part identified as "front" at the current position (definied by previ
 
     carving_part("front");
 
-As well, see [examples/clip_tenon_joint]() example.
+As well, see [](examples/clip_tenon_joint) example.
 
