@@ -1,6 +1,6 @@
-# Box clip tenon joint
+# Clip tenon joint example
 
-Simple box assembled only with clip tenon joint only - no screw, no glue -.
+Clip tenon joint example.
 
 ## Milling Path
 ![](clip_tenon_joint_1_milling_path.png)
@@ -9,7 +9,7 @@ Simple box assembled only with clip tenon joint only - no screw, no glue -.
 ![](clip_tenon_joint_2_carving_result.png)
 
 ## Assembly of the parts
-![](clip_tenon_joint_3_parts_for_assembly.png)
+![](clip_tenon_joint_3_part_for_assembly.png)
 
 ## G-Code in LinuxCNC
 ![](clip_tenon_joint_4_gcode_in_linuxcnc.png)
