@@ -1,8 +1,8 @@
-# OpenSCAD carving plugin
+# OpenSCAD carving feature for CNC milling machine
 
 # Overview
 
-OpenSCAD carving plugin proposes an alternative way of making parts by *carving* them from a workpiece. The goal is to try to simplify the creation of parts for CNC milling machine and to render them as accurately as possible during design steps. As well, CNC milling has some specificities which would benefit to be integrated:
+OpenSCAD carving feature proposes an alternative way of making parts by *carving* them from a workpiece. The goal is to try to simplify the creation of parts for CNC milling machine and to render them as accurately as possible during design steps. As well, CNC milling has some specificities which would benefit to be integrated:
 * The notion of workpiece of a specific material and size,
 * Specific G-Code move operations to carve the workpiece or tool management like spindle speed, move speed or tool change,
 * Multiple pass depending on material, cutting tool and CNC machine
@@ -10,7 +10,7 @@ OpenSCAD carving plugin proposes an alternative way of making parts by *carving*
 
 # Concept
 
-This plugin tries to follow natural step from a 'carving' point of view.
+This project tries to follow natural step from a 'carving' point of view.
 
 Design steps:
 
@@ -36,7 +36,7 @@ Design steps:
 
 # Getting started
 
-## Building OpenSCAD with carving plugin
+## Building OpenSCAD with carving feature
 
 Follow [OpenSCAD build instructions](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Building_OpenSCAD_from_Sources) and add CONFIG+="carving" to the qmake command. Example:
 
