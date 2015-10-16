@@ -1,6 +1,6 @@
 // Horn for Hitec servo
 
-$fn = 12;
+$fn = 24;
 t1r = 1.5; // radius of the tool T1 in mm
 mt = 3;    // material thickness in mm
 
