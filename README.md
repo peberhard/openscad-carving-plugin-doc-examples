@@ -16,24 +16,23 @@ Design steps:
 
 1. When creating and debugging a part, the View -> Carving -> "Render Milling Path" mode displays the volume traveled by the CNC milling tools following the programmed moves.
 
-![](examples/clip_tenon_joint/clip_tenon_joint_1_milling_path.png)
+![](examples/box_clip_tenon_joint/box_clip_tenon_joint_1_milling_path.png)
 
 2. Once the parts is advanced enough, the View -> Carving -> "Render Carving Result" mode displays accurately the volume removed from the workpiece to carve the parts. Positions of the parts on the workpiece can be optimized.
 
-![](examples/clip_tenon_joint/clip_tenon_joint_2_carving_result.png)
+![](examples/box_clip_tenon_joint/box_clip_tenon_joint_2_carving_result.png)
 
 3. Finally parts can be extracted from the workpiece using View -> Carving -> "Extract Parts for Assembly" mode. Once identified, *parts are extracted from the workpiece and assembled together* to render the final result. It is then possible to check how well the parts fit together.
 
-![](examples/clip_tenon_joint/clip_tenon_joint_3_part_for_assembly.png)
+![](examples/box_clip_tenon_joint/box_clip_tenon_joint_3_part_for_assembly.png)
 
 4. *Export the parts into G-Code* via File -> Export -> "Export as NGC..." for manufacturing using LinuxCNC and CNC milling machine!
 
-![](examples/clip_tenon_joint/clip_tenon_joint_4_gcode_in_linuxcnc.png)
+![](examples/box_clip_tenon_joint/box_clip_tenon_joint_4_gcode_in_linuxcnc.png)
 
 5. And... enjoy end result!
 
-![](examples/clip_tenon_joint/clip_tenon_joint_5_end_result_1.jpg)
-![](examples/clip_tenon_joint/clip_tenon_joint_5_end_result_2.jpg)
+![](examples/box_clip_tenon_joint/box_clip_tenon_joint_5_end_result.jpg)
 
 # Getting started
 
