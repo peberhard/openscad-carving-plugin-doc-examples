@@ -24,7 +24,7 @@ Design steps:
 
 3. Finally parts can be extracted from the workpiece using View -> Carving -> "Extract Parts for Assembly" mode. Once identified, *parts are extracted from the workpiece and assembled together* to render the final result. It is then possible to check how well the parts fit together.
 
-![](examples/box_clip_tenon_joint/box_clip_tenon_joint_3_part_for_assembly.png)
+![](examples/box_clip_tenon_joint/box_clip_tenon_joint_3_parts_for_assembly.png)
 
 4. *Export the parts into G-Code* via File -> Export -> "Export as NGC..." for manufacturing using LinuxCNC and CNC milling machine!
 
