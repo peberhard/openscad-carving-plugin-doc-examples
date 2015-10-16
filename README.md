@@ -337,7 +337,7 @@ Render the part previously identified by `id`' in `carving_path2d` module.
 
 **parameters:**
 
-*   **id**
+*   **id** (required, no default value)
 
     `id` specified by a previous call to `carving_path2d` module.
 
@@ -347,5 +347,5 @@ Render the part identified as "front" at the current position (definied by previ
 
     carving_part("front");
 
-As well, see `examples/clip_tenon_joint/` example.
+As well, see [examples/clip_tenon_joint]() example.
 
