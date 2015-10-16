@@ -45,7 +45,7 @@ Follow [OpenSCAD build instructions](https://en.wikibooks.org/wiki/OpenSCAD_User
 
 # Examples
 
-Examples are availabe in examples/ folder.
+Examples are availabe in [examples/](examples/) folder.
 
 # Language extensions
 
@@ -313,7 +313,7 @@ Changes the direction of a sub-section of a path. It module is used in specific 
 
 **example:**
 
-See `examples/clip_tenon_joint/` example.
+See [examples/clip_tenon_joint/](examples/clip_tenon_joint/) example.
 
 
 ## Assembly
@@ -326,7 +326,7 @@ Root module containg assembly instructions.
 
 **example:**
 
-See `examples/clip_tenon_joint/` example.
+See [examples/clip_tenon_joint/](examples/clip_tenon_joint/) example.
 
 
 ### carving_part(id)
@@ -347,5 +347,5 @@ Render the part identified as "front" at the current position (definied by previ
 
     carving_part("front");
 
-As well, see [examples/clip_tenon_joint](examples/clip_tenon_joint) example.
+As well, see [examples/clip_tenon_joint/](examples/clip_tenon_joint/) example.
 
