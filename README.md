@@ -43,7 +43,7 @@ Follow [OpenSCAD build instructions](https://en.wikibooks.org/wiki/OpenSCAD_User
     $ qmake CONFIG+="experimental carving"
     $ make
 
-The source code in located  in [src/carving](https://github.com/peberhard/openscad/tree/carving-plugin/src/carving)
+The source code in located  in [src/carving](https://github.com/peberhard/openscad/tree/carving-plugin/src/carving) directory.
 
 # Examples
 
